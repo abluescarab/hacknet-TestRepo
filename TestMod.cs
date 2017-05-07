@@ -6,7 +6,6 @@ namespace TestMod {
         public const string Name = "Test Mod";
         public const string Version = "2_1";
         public const string ID = Name + " v" + Version;
-        public const string Author = "abluescarab";
         public string Identifier => ID;
 
         public void Load() {
