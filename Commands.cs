@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Hacknet;
 
-namespace TemplateMod {
+namespace TestMod {
     static class Commands {
         public static class MyCommand {
             public const string Key = "mycommand";

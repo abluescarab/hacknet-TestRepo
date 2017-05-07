@@ -7,8 +7,8 @@
     <ProjectGuid>{8B86A3C8-3234-405D-BA3C-0E58DA65D8AF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TemplateMod</RootNamespace>
-    <AssemblyName>TemplateMod</AssemblyName>
+    <RootNamespace>TestMod</RootNamespace>
+    <AssemblyName>TestMod</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -53,11 +53,11 @@
   <ItemGroup>
     <Compile Include="Commands.cs" />
     <Compile Include="KeyValueFile.cs" />
-    <Compile Include="TemplateMod.cs" />
+    <Compile Include="TestMod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="TemplateMod.json">
+    <None Include="TestMod.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

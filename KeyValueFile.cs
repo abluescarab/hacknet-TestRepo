@@ -3,7 +3,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using Hacknet;
 
-namespace TemplateMod {
+namespace TestMod {
     public class KeyValueFile {
         private string path;
         private bool doSort = true;
