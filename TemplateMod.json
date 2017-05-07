@@ -1,9 +1,10 @@
 ﻿{
-	"title": "Template Mod",
-	"description": "A template mod",
-	"version": "v1.0",
-	"homepage": "https://github.com/abluescarab/hacknet-testrepo",
-	"authors": [
+	"Title": "Template Mod",
+	"Description": "A template mod",
+	"Version": "v1.0",
+	"Homepage": "https://github.com/abluescarab/hacknet-testrepo",
+    "GitHub": "https://github.com/abluescarab/hacknet-testrepo",
+	"Authors": [
 		"abluescarab"
 	]
 }
