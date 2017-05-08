@@ -4,7 +4,7 @@ using Pathfinder.Command;
 namespace TestMod {
     public class TestMod : Pathfinder.IPathfinderMod {
         public const string Name = "Test Mod";
-        public const string Version = "2_1";
+        public const string Version = "2_2";
         public const string ID = Name + " v" + Version;
         public string Identifier => ID;
 
