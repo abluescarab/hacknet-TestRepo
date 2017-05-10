@@ -7,8 +7,5 @@
     "Authors": [
         "abluescarab"
     ],
-    "Info": "This is a test mod for Mod Manager.",
-    "Files": [
-        "TestMod.dll"
-    ]
+    "Info": "This is a test mod for Mod Manager."
 }
